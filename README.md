@@ -9,7 +9,9 @@ I am currently looking for a job in `Quantitative Research`, `Algorithmic Tradin
 
 ### Data Science Portfolio
 * **Machine Learning and Statistics**
-  * Cryptocurrency Trading Strategy Creation and Backtest
+  * [Cryptocurrency Trading Strategy Creation and Backtest](https://github.com/mads-swaps/swap-for-profit)
+  
+  ⚡ Click here for the [Final Report](https://mads-swaps.github.io/) 
 * **Supervised Learning and Nautral Language Processing (NLP)**
   * Wikipedia Text Difficulty Classifier
 * **Unsupervised Learning**
