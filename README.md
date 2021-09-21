@@ -8,13 +8,13 @@ I am currently looking for a job in `Quantitative Research`, `Algorithmic Tradin
 
 
 ### Data Science Portfolio
-* Machine Learning and Statistics
+* **Machine Learning and Statistics**
   * Cryptocurrency Trading Strategy Creation and Backtest
-* Supervised Learning and Nautral Language Processing (NLP)
+* **Supervised Learning and Nautral Language Processing (NLP)**
   * Wikipedia Text Difficulty Classifier
-* Unsupervised Learning
+* **Unsupervised Learning**
   * Economic Freedom
-* Exploratory Data Analysis
+* **Exploratory Data Analysis**
   * Satellites Congestion
 
 
