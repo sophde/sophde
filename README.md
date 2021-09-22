@@ -9,7 +9,7 @@ I am currently looking for a job in `Quantitative Research`, `Algorithmic Tradin
 
 ### Data Science Portfolio
 * **Machine Learning and Statistics**
-  * [Cryptocurrency Trading Strategy Creation and Backtest](https://github.com/mads-swaps/swap-for-profit)
+  * [Cryptocurrency Trading Strategy Creation and Backtest](https://github.com/mads-swaps/swap-for-profit): Use machine learning techniques and statistical arbitrage to capture profitable trading signals. Backtest and evaluate various strategies. Utilize Amazon Web Service serverless architecture to automate and scale the machine learning models in a production environment. Supports a variety of classifiers and regressors such as scikit-learn, ensemble of models and neural networks.
   
   ⚡ Click here for the [Final Report](https://mads-swaps.github.io/) 
 * **Supervised Learning and Nautral Language Processing (NLP)**
@@ -17,7 +17,10 @@ I am currently looking for a job in `Quantitative Research`, `Algorithmic Tradin
 * **Unsupervised Learning**
   * Economic Freedom
 * **Exploratory Data Analysis**
-  * Satellites Congestion
+  * [Satellites Congestion](https://github.com/mads-hatters/SIADS-591-Orbital-Congestion)
+  
+  ⚡ Click here for the [Final Report](https://github.com/mads-hatters/SIADS-591-Orbital-Congestion/blob/main/FinalReport.ipynb) 
+
 
 
 
